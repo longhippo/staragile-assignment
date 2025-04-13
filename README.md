@@ -1,3 +1,2 @@
 # staragile-assignment done and ready
-## fetch done
-## pull done 
+This is example of first push on Remote Repository
